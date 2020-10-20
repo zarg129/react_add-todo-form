@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,gBACF,CAEA,WACE,oBAAqB,CACrB,SACF,CAEA,YACE,SAAU,CACV,iBACF","file":"main.26adad90.chunk.css","sourcesContent":[".App {\n  text-align: start;\n}\n\n.validator {\n  list-style-type: none;\n  color: red;\n}\n\n.user-error {\n  color: red;\n  padding-left: 40px;\n}"]}
